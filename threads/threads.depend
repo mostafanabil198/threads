@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571946604 source:/media/mostafanabil198/New Volume/Kolya/3rd-year/1st-term/os/assignments/code/threads/main.cpp
+	<bits/stdc++.h>
+	<pthread.h>
+	<unistd.h>
+	<time.h>
+
